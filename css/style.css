@@ -1,0 +1,34 @@
+body{
+      background-color: #24353f;
+}
+
+ section .group{
+      width: 60%;
+      background-color: #24353f;
+      box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+nav{
+      background-color: #24353f !important;
+      box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);   
+}
+.group input{
+      color:#fff !important;
+      border: 1px solid #ced4da;
+}
+.group input:focus{
+      box-shadow: none;
+      border:1px solid #17a2b8 !important; 
+}
+::placeholder{
+      color: #fff !important;
+}
+
+.btn:hover{
+      color: #fff !important;
+}
+h1{
+      color: #17a2b8;
+}
+p a:hover{
+      text-decoration: underline !important;
+}
